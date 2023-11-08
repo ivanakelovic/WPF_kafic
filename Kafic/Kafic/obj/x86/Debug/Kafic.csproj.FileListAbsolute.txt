@@ -1,0 +1,8 @@
+C:\Users\Budimir Kovacevic\Desktop\Kafic\Kafic\bin\Debug\Kafic.exe
+C:\Users\Budimir Kovacevic\Desktop\Kafic\Kafic\bin\Debug\Kafic.pdb
+C:\Users\Budimir Kovacevic\Desktop\Kafic\Kafic\obj\x86\Debug\Kafic.Properties.Resources.resources
+C:\Users\Budimir Kovacevic\Desktop\Kafic\Kafic\obj\x86\Debug\Kafic.csproj.GenerateResource.Cache
+C:\Users\Budimir Kovacevic\Desktop\Kafic\Kafic\obj\x86\Debug\Kafic.exe
+C:\Users\Budimir Kovacevic\Desktop\Kafic\Kafic\obj\x86\Debug\Kafic.pdb
+C:\Users\Budimir Kovacevic\Desktop\Kafic\Kafic\obj\x86\Debug\Kafic.frmPIN.resources
+C:\Users\Budimir Kovacevic\Desktop\Kafic\Kafic\obj\x86\Debug\Kafic.frmRacun.resources
